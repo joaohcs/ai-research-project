@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: chapter1-languagemodels/chapter1
+  sections:
+    - file: chapter1-languagemodels/architectures/architecture1
+- file: chapter2-imagemodels/chapter2_img
+  sections:
+    - file: chapter2-imagemodels/architectures/architecture2
+- file: businesschapter/business
