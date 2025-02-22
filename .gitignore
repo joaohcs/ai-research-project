@@ -1,0 +1,15 @@
+#
+mybook/_build
+
+# Ignore other common files
+**/.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.egg-info/
+*.log
+.DS_Store
+Thumbs.db
